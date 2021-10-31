@@ -1,39 +1,34 @@
 # My Maps 
 
-## *Your name here*
+## *Jingxi (Harvey) Cai*
 
 **My Maps** displays a list of maps, each of which show user-defined markers with a title, description, and location. The user can also create a new map. 
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] The list of map titles is displayed.
-* [ ] After tapping on a map title, the associated markers in the map are shown.
-* [ ] The user is able to create a new map.
+* [x] The list of map titles is displayed.
+* [x] After tapping on a map title, the associated markers in the map are shown.
+* [x] The user is able to create a new map.
 
 The following **extensions** are implemented:
 
-* [ ] When a map marker is created, the pin is animated.
-* [ ] List anything else that you did to improve the app functionality or design!
+* [x] When a map marker is created, the pin is animated.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= 'https://media.giphy.com/media/jrhRY1AJ6hjiBscik6/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Jingxi Cai]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
